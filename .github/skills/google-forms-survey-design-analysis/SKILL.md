@@ -60,6 +60,7 @@ Use these questions at the start of a task to tune output quality.
 6. Draft textual findings in clear academic style.
 7. Suggest visuals (table/chart types) when they improve interpretability.
 8. Return outputs with traceable file references and assumptions.
+9. Always offer to generate a `.gs` (Google Apps Script) code once the form design is finalized.
 
 ## Output Contract
 
@@ -71,7 +72,7 @@ Return results in this order:
 4. Visual suggestions or draft tables (if requested or useful).
 5. Fixes applied (language/typo edits with file references).
 6. Open questions and assumptions.
-7. Suggested next actions.
+7. Suggested next actions (including an offer to generate a `.gs` Google Apps Script code to automate the form creation once finalized).
 
 ## Guardrails
 
